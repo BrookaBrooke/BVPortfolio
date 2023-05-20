@@ -19,22 +19,33 @@ const Portfolio = () => {
         {
             id:2,
             src: reactParallax,
+            demo: "https://github.com/BrookaBrooke",
+            code: "https://linkedin.com/in/brookevonderheid",
         },
         {
             id:3,
             src: navbar,
+            demo: "https://github.com/BrookaBrooke",
+            code: "https://linkedin.com/in/brookevonderheid",
         },
         {
             id:4,
             src: reactSmooth,
+            demo: "https://github.com/BrookaBrooke",
+            code: "https://linkedin.com/in/brookevonderheid",
         },
         {
             id:5,
             src: installNode,
+            demo: "https://github.com/BrookaBrooke",
+            code: "https://linkedin.com/in/brookevonderheid",
+
         },
         {
             id:6,
             src: reactWeather,
+            demo: "https://github.com/BrookaBrooke",
+            code: "https://linkedin.com/in/brookevonderheid",
         }
     ]
 
