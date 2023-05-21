@@ -1,5 +1,5 @@
 import React from "react";
-import headshot from "../assets/headshot.jpeg"
+import headshot2 from "../assets/headshot2.jpg"
 import { MdOutlineKeyboardArrowRight } from "react-icons/md"
 import { Link } from "react-scroll"
 
@@ -26,7 +26,7 @@ const Home = () => {
                     </Link>
                 </div>
             </div>
-            <img src={headshot} alt="my profile" className="rounded-2xl mx-auto w-1/3 md:w-half" />
+            <img src={headshot2} alt="my profile" className="rounded-2xl mx-auto w-2/3 md:w-half" />
         </div>
     </div>
     );
