@@ -10,7 +10,11 @@ const About = () => {
                     <p className="text-4xl font-bold inline border-b-4 border-gray-500">About</p>
                 </div>
                 <p className="text-xl mt-20">
-                    Paragraph 1
+                    Born in Dallas Texas, I began my career journey a few years ago, jumping from the
+                    field of customer service to the field of software engineering. My education includes
+                    engineering courswork from Arizona State University, as well as a certification of FullStack
+                    Web Development from Hack Reactor, where I learned frontend and backend developement, as well
+                    as the developement of REST APIs.
                 </p>
 
                 <br/>
