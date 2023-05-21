@@ -19,7 +19,8 @@ const About = () => {
 
                 <br/>
                 <p className="text-xl">
-                    Paragraph 2
+                    I specialize in Python and Javascript based applications built with the Django and FastAPi Frameworks.
+                    Below listed are a few of my completed projects and examples of my abilities.
                 </p>
             </div>
         </div>
