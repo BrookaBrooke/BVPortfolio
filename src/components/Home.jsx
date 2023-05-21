@@ -11,10 +11,12 @@ const Home = () => {
         <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
             <div className="flex flex-col justify-center h-full">
                 <h2 className=" text-4xl sm:text-7xl font-bold text-white">
-                    I'm a Full Stack Dev.
+                    Brooke Vonderheid, FullStack Software Developer
                 </h2>
                 <p className="text-gray-500 py-4 max-w-medium">
-                    I have lots of xp
+                    As a freelance web dev, I offer several services including static websites, web applications, and mobile applications.
+                    Because I am passionate about learning new technologies and building new products, I love being challenged by
+                    fresh and new ideas for applications. Reach out further via my contact form for my rates.
                 </p>
 
                 <div>
@@ -26,7 +28,7 @@ const Home = () => {
                     </Link>
                 </div>
             </div>
-            <img src={headshot2} alt="my profile" className="rounded-2xl mx-auto w-2/3 md:w-half" />
+            <img src={headshot2} alt="my profile" className="rounded-2xl mx-auto w-1/3 md:w-half" />
         </div>
     </div>
     );
