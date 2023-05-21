@@ -2,10 +2,12 @@ import React from 'react'
 import html from "../assets/html.png"
 import css from "../assets/css.png"
 import reactImage from "../assets/react.png"
-import nextjs from "../assets/nextjs.png"
 import github from "../assets/github.png"
 import tailwind from "../assets/tailwind.png"
 import javascript from "../assets/javascript.png"
+import pythonicon1 from "../assets/pythonicon1.png"
+import djangoicon1 from "../assets/djangoicon1.png"
+import fastapi1 from "../assets/fastapi-1.svg"
 
 const Experience = () => {
 
@@ -30,27 +32,40 @@ const Experience = () => {
         },
         {
             id: 4,
+            src: pythonicon1,
+            title: 'Python',
+            style: 'shadow-blue-500'
+        },
+        {
+            id: 5,
             src: reactImage,
             title: 'React',
             style: 'shadow-orange-600'
         },
         {
-            id: 5,
+            id: 6,
             src: tailwind,
             title: 'Tailwind',
             style: 'shadow-sky-400'
         },
-        {
-            id: 6,
-            src: nextjs,
-            title: 'Next JS',
-            style: 'shadow-white'
-        },
+
         {
             id: 7,
             src: github,
             title: 'Github',
             style: 'shadow-gray-400'
+        },
+        {
+            id: 8,
+            src: djangoicon1,
+            title: 'Django',
+            style: 'shadow-green-800'
+        },
+        {
+            id: 9,
+            src: fastapi1,
+            title: 'Fast API',
+            style: 'shadow-green-400'
         },
 
     ]
