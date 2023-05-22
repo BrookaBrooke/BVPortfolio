@@ -1,6 +1,6 @@
-import arrayDestruct from "../assets/portfolio/arrayDestruct.jpg"
-import navbar from "../assets/portfolio/navbar.jpg"
-import reactParallax from "../assets/portfolio/reactParallax.jpg"
+import weebroulette1 from "../assets/weebroulette1.jpg"
+import carcar from "../assets/carcarpic.jpg"
+import moviemixerpic2 from "../assets/moviemixerpic2.jpg"
 
 import React from "react"
 
@@ -10,18 +10,18 @@ const Portfolio = () => {
     const portfolios = [
         {
             id:1,
-            src: arrayDestruct,
+            src: weebroulette1,
             code: "https://github.com/BrookaBrooke/Weeb-Roulette",
         },
         {
             id:2,
-            src: reactParallax,
-            code: "https://linkedin.com/in/brookevonderheid",
+            src: moviemixerpic2,
+            code: "https://github.com/BrookaBrooke/movie-mixer",
         },
         {
             id:3,
-            src: navbar,
-            code: "https://linkedin.com/in/brookevonderheid",
+            src: carcar,
+            code: "https://github.com/BrookaBrooke/Car-Car",
         },
 
     ]
