@@ -1,7 +1,7 @@
 import React from 'react';
 import {FaGithub , FaLinkedin} from 'react-icons/fa';
 import { HiOutlineMail } from'react-icons/hi';
-import { BsFillPersonLinesFill } from 'react-icons/bs';
+import { BsFillPersonLinesFill, BsTwitch } from 'react-icons/bs';
 import brookeSweResume1 from '../assets/brookeSweResume1.pdf';
 
 const SocialLinks = () => {
@@ -28,7 +28,17 @@ const SocialLinks = () => {
             style: 'rounded-tr-md',
         },
         {
-            id:3,
+          id:3,
+          child: (
+              <>
+              Twitch <BsTwitch size={30} />
+              </>
+          ),
+          href: 'https://www.twitch.tv/brookabrooke',
+          style: 'rounded-tr-md',
+      },
+        {
+            id:4,
             child: (
                 <>
                 Mail <HiOutlineMail size={30} />
@@ -38,7 +48,7 @@ const SocialLinks = () => {
             style: 'rounded-tr-md',
         },
         {
-            id:4,
+            id:5,
             child: (
                 <>
                 Resume <BsFillPersonLinesFill size={30} />
