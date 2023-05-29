@@ -5,6 +5,7 @@ import SocialLinks from "./components/SocialLinks";
 import Portfolio from "./components/Portfolio";
 import Experience from "./components/Experience";
 import Contact from "./components/Contact";
+import SocialNavMobile from "./components/SocialNavMobile";
 import 'tailwindcss/tailwind.css'
 
 
@@ -18,6 +19,7 @@ function App() {
   <Experience />
   <Contact />
 
+  <SocialNavMobile />
   <SocialLinks />
 </div>
   );

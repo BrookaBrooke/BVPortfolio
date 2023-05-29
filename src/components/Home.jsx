@@ -28,7 +28,7 @@ const Home = () => {
                     </Link>
                 </div>
             </div>
-            <img src={headshot2} alt="my profile" className="rounded-2xl mx-auto w-1/3 md:w-half" />
+            <img src={headshot2} alt="my profile" className="rounded-2xl px-2 mx-auto w-2/3 md:w-half" />
         </div>
     </div>
     );
