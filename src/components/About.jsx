@@ -10,7 +10,7 @@ const About = () => {
                     <h1 className="text-4xl font-bold inline border-b-4 border-gray-500">About Me</h1>
                 </div>
                 <p className="text-xl mt-5">
-                Hello! I'm [Your Name], a passionate and dedicated web developer with [X] years of experience. I thrive on transforming ideas into captivating and functional websites that provide seamless user experiences. With a strong background in [mention relevant technologies or programming languages], I am always eager to expand my skills and stay up-to-date with the latest trends in web development.
+                Hello! I'm Brooke Vonderheid, a passionate and dedicated web developer with newly graduated. I thrive on transforming ideas into captivating and functional websites that provide seamless user experiences. With a strong background in Python and JavaScript, I am always eager to expand my skills and stay up-to-date with the latest trends in web development.
                 I specialize in developing responsive, dynamic, and user-friendly websites that meet the unique needs of clients. Here are some of my key areas of expertise:
                 </p>
 
@@ -25,7 +25,7 @@ const About = () => {
                 </p>
 
                 <br/>
-                <p className="text-xl mt-5">
+                <p className="text-xl mt-5 ">
                 I prioritize creating websites that are accessible and visually appealing across various devices and screen sizes. Utilizing responsive design principles and frameworks like Bootstrap to ensure optimal user experiences on desktops, tablets, and smartphones.
                 </p>
 
