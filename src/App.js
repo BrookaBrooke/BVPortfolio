@@ -13,6 +13,7 @@ function App() {
   return (
 <div>
   <NavBar />
+ <div className=" bg-gradient-to-r from-violet-400 via-indigo-400 to-indigo-600">
   <Home />
   <About />
   <Portfolio />
@@ -21,6 +22,7 @@ function App() {
 
   <SocialNavMobile />
   <SocialLinks />
+  </div>
 </div>
   );
 }
