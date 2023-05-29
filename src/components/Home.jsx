@@ -10,13 +10,13 @@ const Home = () => {
     from-black via-black to-gray-800 text-white ">
         <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
             <div className="flex flex-col justify-center h-full">
-                <h2 className=" text-4xl sm:text-7xl font-bold text-white">
+                <h2 className=" text-4xl sm:text-6xl font-bold text-white">
                     Brooke Vonderheid, FullStack Software Developer
                 </h2>
                 <p className="text-gray-500 py-4 max-w-medium">
-                    As a freelance web dev, I offer several services including static websites, web applications, and mobile applications.
-                    Because I am passionate about learning new technologies and building new products, I love being challenged by
-                    fresh and new ideas for applications. Reach out further via my contact form for my rates.
+                    As a freelance Web Developer, I offer several services including the production of static websites and applications, all with the option to be mobile-friendly.
+                    I am passionate about learning new technologies, building new products, and love being challenged by
+                    fresh and new ideas for applications. Please reach out further via my contact form for rates.
                 </p>
 
                 <div>
