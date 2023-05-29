@@ -46,7 +46,7 @@ const SocialNavMobile = () => {
     <div name="socials" className=" text-white md:h-screen">
     <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
         <div className="pb-8">
-            <p className="text-4xl font-oswald inline border-b-4 border-gray-500">Social Media Links</p>
+            <h1 className="text-4xl inline border-b-4 border-gray-500">Social Media Links</h1>
          </div>
 
         <div className="grid sm:grid-cols-1 md:grid-cols-6 gap-2 px-2 py-2 sm:px-0">

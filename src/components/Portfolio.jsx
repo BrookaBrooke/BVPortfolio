@@ -31,7 +31,7 @@ const Portfolio = () => {
         <div name="portfolio" className=" text-white md:h-screen">
             <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
                 <div className="pb-8">
-                    <p className="text-4xl font-oswald inline border-b-4 border-gray-500">Portfolio</p>
+                    <h1 className="text-4xl inline border-b-4 border-gray-500">Portfolio</h1>
                     <p className="py-6">Listed below is some of my previous work, which should display my
                     abilities in what I can do.</p>
                 </div>

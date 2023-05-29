@@ -9,9 +9,9 @@ const Home = () => {
     className="h-screen w-full  text-white ">
         <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-2 md:flex-row">
             <div className="flex flex-col justify-center h-full">
-                <h2 className=" text-4xl sm:text-5xl font-Oswald-700 text-white">
+                <h1 className=" text-4xl sm:text-5xl  text-white">
                     Brooke Vonderheid, FullStack Software Developer
-                </h2>
+                </h1>
                 <p className="text-gray-500 py-3 px-3 max-w-medium">
                     As a freelance Web Developer, I offer several services including the production of static websites and applications, all with the option to be mobile-friendly.
                     I am passionate about learning new technologies, building new products, and love being challenged by
